@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background: url('https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-container {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 25px rgba(0,0,0,0.2);
+  width: 320px;
+  text-align: center;
+  backdrop-filter: blur(5px);
+  transition: transform 0.3s ease;
+}
+
+.login-container:hover {
+  transform: scale(1.02);
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 26px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: border-color 0.3s ease;
+}
+
+input:focus {
+  border-color: #6a11cb;
+  outline: none;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #2575fc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #6a11cb;
+  transform: translateY(-2px);
+}
+
+.links {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+}
+
+.links a {
+  color: #2575fc;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.links a:hover {
+  color: #6a11cb;
+}

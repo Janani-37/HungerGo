@@ -1,0 +1,55 @@
+.checkout-container {
+  width: 500px;
+  margin: auto;
+  padding: 30px;
+  background-color: #fdfdfd;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.checkout-container h2 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.user-info label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.user-info input, .user-info textarea, .user-info select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: box-shadow 0.3s ease;
+}
+
+.user-info input:focus, .user-info textarea:focus, .user-info select:focus {
+  box-shadow: 0 0 8px #3498db;
+}
+
+.order-summary {
+  margin-top: 20px;
+  font-size: 16px;
+  color: #34495e;
+}
+
+.confirm-button {
+  margin-top: 20px;
+  padding: 12px 20px;
+  width: 100%;
+  background-color: #27ae60;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.confirm-button:hover {
+  background-color: #1e8449;
+  transform: scale(1.05);
+}
