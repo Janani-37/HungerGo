@@ -64,7 +64,7 @@ HungerGo/
 
 ## 🎬 Live Demo
 
-▶️ **Demo Link**: [Watch HungerGo App in Action]([https://drive.google.com](https://streamable.com/r9sn84))
+▶️ **Demo Link**: [Watch HungerGo App in Action](https://streamable.com/r9sn84)
 
 ---
 
