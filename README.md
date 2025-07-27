@@ -64,7 +64,7 @@ HungerGo/
 
 ## 🎬 Live Demo
 
-▶️ **Demo Link**: [Watch HungerGo App in Action](C:\Users\JANANI SRI\OneDrive\Videos\Screen Recordings\Screen Recording 2025-07-27 180133.mp4)
+▶️ **Demo Link**: [Watch HungerGo App in Action](https://drive.google.com/file/d/16eXvMQm-GPNX8RKQZmy2MD7DmhddVxgp/view?usp=drivesdk ).
 
 ---
 
